@@ -1,11 +1,4 @@
 
-# Hi, I'm Pratik 👋
-
-🎓 I'm a Computer Science student at Pune University  
-💻 I’m currently learning: Web Development, Java Development
-🔭 I’m working on: Personal portfolio, mini-projects  
-💬 Pronouns: he/him
-
 <h1 align="center">Hi 👋, I'm Pratik Pande</h1>
 <h3 align="center">A Passionate Software Developer from Nashik, Maharashtra, India. Recently Master in Computer Science from Pune University Computer Science Department.</h3>
 <h4 align="center">📫 How to reach me: pratikmpande200@gmail.com  </h4>
